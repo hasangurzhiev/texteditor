@@ -1,0 +1,15 @@
+D:\is-21\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\is-21\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\is-21\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\is-21\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+D:\is-21\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+D:\is-21\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+D:\is-21\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+D:\is-21\TextEditor\TextEditor\obj\Debug\App.g.cs
+D:\is-21\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+D:\is-21\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+D:\is-21\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\is-21\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\is-21\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\is-21\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\is-21\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
